@@ -1,5 +1,5 @@
-pip install ibmiotf 
-git clone https://github.com/szazo/DHT11_python.git #(dht11 library)
+#pip install ibmiotf 
+#git clone https://github.com/szazo/DHT11_python.git #(dht11 library)
 
 import RPi.GPIO as GPIO
 import dht11
